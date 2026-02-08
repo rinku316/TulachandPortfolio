@@ -7,14 +7,21 @@ export default function Project() {
       title: 'Momentum – Advanced Todo List Application (Live)',
       description: 'Developed a feature-rich task manager with categories, due dates, priority levels, dark mode',
       tech: ['HTML5', 'CSS3', 'JavaScript', 'React.js'],
-      link: '#'
+      link: 'https://rinku316.github.io/Momentum/'
     },
     {
       title: 'Personal Portfolio Website (Live)',
       description: 'Real-time social platform with messaging and notification features',
       tech: ['HTML5', 'CSS3', 'JavaScript', 'React.js'],
+      link: 'https://rinku316.github.io/TulachandPortfolio/'
+    },
+    {
+      title: 'Employee Management System',
+      description: 'Employee management application developed using Java and Hibernate ORM with database operations like add, update, delete, and view employee records.',
+      tech: ['Java', 'SQL', 'Hibernate ORM'],
       link: '#'
     },
+
 
   ]
 

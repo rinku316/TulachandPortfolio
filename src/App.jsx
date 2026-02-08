@@ -15,8 +15,8 @@ function App() {
     <>
       <Navbar/>
        <Routes>
-        {/* Show Projects as the main page */}
-        <Route path='/' element = {<Home />}></Route>
+        {/* Show Home as the main page */}
+        <Route index element = {<Home />}></Route>
         <Route path='/projext' element = {<Projext />}></Route>
         {/* other routes kept but not linked in navbar */}
         <Route path='/about' element = {<About/>}></Route>
